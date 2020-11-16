@@ -7,6 +7,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaash02&layout=compact&theme=cobalt)](https://github.com/suhaash02)
 
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=suhaash02&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suhaash02/&title=Profile%20Views
+
 <!--
 **suhaash02/suhaash02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
