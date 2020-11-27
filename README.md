@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPerU-MoNsteR&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=my+account+views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuhaash02%viperuserbot&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=my+account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 [![suhaashh02's github stats](https://github-readme-stats.vercel.app/api?username=PerU-MoNsteR&show_icons=true&theme=cobalt&count_private=true)](https://github.com/PerU-MoNsteR)
