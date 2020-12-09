@@ -1,6 +1,6 @@
 ### Hi there 👋
 #refreshed my account and my new viewers counts
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520PerU-MoNsteR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewers&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520PerU-MoNsteR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=viewers&edge_flat=false)]
 
 [![Charlie Puth's github stats](https://github-readme-stats.vercel.app/api?username=PerU-MoNsteR&show_icons=true&theme=dark&count_private=true)](https://github.com/PerU-MoNsteR)
 
@@ -11,10 +11,8 @@
 
 ### Stats ⚡️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PerU-MoNsteR&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PerU-MoNsteR&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=dark&cache_seconds=86400)
 
-<!--
-**suhaash02/suhaash02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
