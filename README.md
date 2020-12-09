@@ -9,6 +9,9 @@
 
 
 
+### Stats ⚡️
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PerU-MoNsteR&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
 <!--
 **suhaash02/suhaash02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
