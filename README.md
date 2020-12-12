@@ -8,6 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerU-MoNsteR&layout=compact&theme=cobalt)](https://github.com/PerU-MoNsteR)
 
 
+<br />
+
+<img align="centre" height="480px" width="480px" alt="GIF" src="https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif" />
+<br />
 
 ### Stats ⚡️
 
